@@ -1,5 +1,9 @@
 # ToDo App
 
+## DEMO link
+
+- [ToDo App DEMO](https://oleksiiknihin.github.io/Todo-App-React/)
+
 ## Description
 
 **ToDo App** is a simple and intuitive web application designed for task management. It allows users to:
@@ -19,10 +23,6 @@
 - **Classnames Library:** Utilized for dynamically managing CSS class names based on component states.
 - **Bulma:** A CSS framework for modern, responsive design with a set of pre-designed CSS classes.
 - **API for Data Storage:** Tasks are stored on the server via on API, enabling data synchronization across devices and browsers.
-
-## DEMO link
-
-- [ToDo App DEMO](https://oleksiiknihin.github.io/Todo-App-React/)
 
 ## Installation instructions
 
